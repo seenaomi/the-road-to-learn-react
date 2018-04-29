@@ -1,6 +1,6 @@
-# Result of following tutorial : The Road to learn React [Book] : 
+# Result of following tutorial : 
+# The Road to learn React [Book] : 
 ## https://github.com/the-road-to-learn-react/the-road-to-learn-react
-
 
 
 
